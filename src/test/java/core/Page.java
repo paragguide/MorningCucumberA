@@ -39,8 +39,7 @@ public class Page
 			spark.config().setReportName(reportname);
 			spark.config().setTheme(Theme.STANDARD);
 			 test = report.createTest(testname);
-			
-	  
+			System.out.println("working...");	  
 	  // driver init.....
 			 
 	  if(browser.equalsIgnoreCase("chrome"))
