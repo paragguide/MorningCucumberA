@@ -1,0 +1,11 @@
+testcases\PasswordTest.class
+utility\ScreenShot2.class
+testcases\Forget2.class
+testcases\Runner.class
+core\Hook.class
+externalxpath\AmazonXpath.class
+testcases\Forget.class
+testcases\UseridTest.class
+testcases\Searchproduct.class
+core\Page.class
+testcases\closeBrowser.class
